@@ -18,3 +18,4 @@ git commit -m "首次提交"
 git remote add origin https://github.com/Andrea12345-5/my-first-repo.git
 git push -u origin main
 ```
+大学加油！！！
